@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nouxfsia.github.io/sitemap/sitemap.txt
